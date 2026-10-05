@@ -1,0 +1,65 @@
+Generate an image 
+{
+  "SCALE": {
+    "Subject": {
+      "theme": "Tamil cultural hospitality – Virundhombal (விருந்தோம்பல்)",
+      "description": "A traditional Tamil family warmly welcoming guests into their home and serving a generous traditional South Indian meal",
+      "people": [
+        "Tamil grandparents",
+        "parents",
+        "children",
+        "visiting guests"
+      ],
+      "cultural_elements": [
+        "traditional Tamil attire",
+        "veshti and white shirt",
+        "cotton saree",
+        "jasmine flowers",
+        "traditional Tamil household",
+        "banana leaf meal",
+        "brass serving vessels"
+      ]
+    },
+    "Composition": {
+      "framing": "cinematic wide-angle composition",
+      "foreground": "a large banana leaf arranged with traditional Tamil dishes",
+      "middle_ground": "family members serving food to the guests with warm smiles",
+      "background": "traditional Tamil house with kolam at the entrance, wooden pillars and traditional architecture",
+      "focus": "the interaction between the host and guests, emphasizing warmth, respect and generosity",
+      "camera_angle": "eye-level, slightly low cinematic perspective",
+      "depth": "natural depth of field with the food and welcoming expressions clearly visible"
+    },
+    "Action": {
+      "primary_action": "hosts respectfully welcome guests and serve food on banana leaves",
+      "secondary_actions": [
+        "elderly woman serving sambar and vegetables",
+        "man serving rice from a traditional brass vessel",
+        "children respectfully greeting the guests",
+        "guests expressing gratitude and enjoying the meal"
+      ],
+      "emotion": "warmth, generosity, respect, happiness and togetherness"
+    },
+    "Location": {
+      "setting": "traditional Tamil Nadu village home",
+      "architecture": "Tamil traditional house with a thinnai, wooden pillars and tiled roof",
+      "decor": [
+        "kolam at the entrance",
+        "brass lamps",
+        "traditional clay pots",
+        "banana plants",
+        "wooden furniture"
+      ],
+      "time": "late afternoon",
+      "environment": "peaceful Tamil village atmosphere with soft natural sunlight"
+    },
+    "Esthetic": {
+      "style": "cinematic realistic portrayal of Tamil heritage",
+      "color_palette": "warm earthy tones with traditional South Indian colors",
+      "lighting": "soft golden-hour sunlight",
+      "mood": "heartwarming, welcoming, nostalgic and culturally authentic",
+      "details": "highly detailed traditional food, realistic facial expressions, authentic Tamil clothing and architecture",
+      "visual_quality": "photorealistic, cinematic, high detail, natural skin tones, realistic textures",
+      "cultural_authenticity": "authentic Tamil Nadu traditions without mixing unrelated Indian cultural elements"
+    }
+  }
+}
